@@ -81,6 +81,128 @@ $ufile = $r[0];
 
 
                         <li class="nav-item">
+                            <a class="nav-link menu-link" href="#sidebarLanding" data-bs-toggle="collapse" role="button" aria-expanded="true" aria-controls="sidebarLanding">
+                                <i class="ri-checkbox-multiple-line"></i> <span data-key="t-landing">Manage Program</span>
+                            </a>
+                            <div class="menu-dropdown collapse" id="sidebarLanding" style="">
+                                <ul class="nav nav-sm flex-column">
+                                    <li class="nav-item">
+                                        <a href="createprogram" class="nav-link" data-key="t-one-page"> Add Program </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="program" class="nav-link" data-key="t-nft-landing"> Program List </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link menu-link" href="#sidebarLanding" data-bs-toggle="collapse" role="button" aria-expanded="true" aria-controls="sidebarLanding">
+                                <i class="ri-checkbox-multiple-line"></i> <span data-key="t-landing">Manage Impact</span>
+                            </a>
+                            <div class="menu-dropdown collapse" id="sidebarLanding" style="">
+                                <ul class="nav nav-sm flex-column">
+                                    <li class="nav-item">
+                                        <a href="createimpact" class="nav-link" data-key="t-one-page"> Add Impact </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="impact" class="nav-link" data-key="t-nft-landing"> Impact List </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+
+                        <li class="nav-item">
+                            <a class="nav-link menu-link" href="#sidebarLanding" data-bs-toggle="collapse" role="button" aria-expanded="true" aria-controls="sidebarLanding">
+                                <i class="ri-checkbox-multiple-line"></i> <span data-key="t-landing">Manage Impact-1</span>
+                            </a>
+                            <div class="menu-dropdown collapse" id="sidebarLanding" style="">
+                                <ul class="nav nav-sm flex-column">
+                                    <li class="nav-item">
+                                        <a href="createimpact_1" class="nav-link" data-key="t-one-page"> Add Impact-1 </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="impact_1" class="nav-link" data-key="t-nft-landing"> Impact-1 List </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+
+                        <li class="nav-item">
+                            <a class="nav-link menu-link" href="#sidebarLanding" data-bs-toggle="collapse" role="button" aria-expanded="true" aria-controls="sidebarLanding">
+                                <i class="ri-checkbox-multiple-line"></i> <span data-key="t-landing">Manage Impact-2</span>
+                            </a>
+                            <div class="menu-dropdown collapse" id="sidebarLanding" style="">
+                                <ul class="nav nav-sm flex-column">
+                                    <li class="nav-item">
+                                        <a href="createimpact_2" class="nav-link" data-key="t-one-page"> Add Impact-2 </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="impact_2" class="nav-link" data-key="t-nft-landing"> Impact-2 List </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link menu-link" href="#sidebarLanding" data-bs-toggle="collapse" role="button" aria-expanded="true" aria-controls="sidebarLanding">
+                                <i class="ri-checkbox-multiple-line"></i> <span data-key="t-landing">Manage Impact-3</span>
+                            </a>
+                            <div class="menu-dropdown collapse" id="sidebarLanding" style="">
+                                <ul class="nav nav-sm flex-column">
+                                    <li class="nav-item">
+                                        <a href="createimpact_3" class="nav-link" data-key="t-one-page"> Add Impact-3 </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="impact_3" class="nav-link" data-key="t-nft-landing"> Impact-3 List </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link menu-link" href="#sidebarLanding" data-bs-toggle="collapse" role="button" aria-expanded="true" aria-controls="sidebarLanding">
+                                <i class="ri-checkbox-multiple-line"></i> <span data-key="t-landing">Manage Impact-4</span>
+                            </a>
+                            <div class="menu-dropdown collapse" id="sidebarLanding" style="">
+                                <ul class="nav nav-sm flex-column">
+                                    <li class="nav-item">
+                                        <a href="createimpact_4" class="nav-link" data-key="t-one-page"> Add Impact-4 </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="impact_4" class="nav-link" data-key="t-nft-landing"> Impact-4 List </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+
+                        <li class="nav-item">
+                            <a class="nav-link menu-link" href="#sidebarLanding" data-bs-toggle="collapse" role="button" aria-expanded="true" aria-controls="sidebarLanding">
+                                <i class="ri-checkbox-multiple-line"></i> <span data-key="t-landing">Manage Blog</span>
+                            </a>
+                            <div class="menu-dropdown collapse" id="sidebarLanding" style="">
+                                <ul class="nav nav-sm flex-column">
+                                    <li class="nav-item">
+                                        <a href="createblog" class="nav-link" data-key="t-one-page"> Add Blog </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="blog" class="nav-link" data-key="t-nft-landing"> Blog List </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+
+
+
+
+                        <li class="nav-item">
                             <a class="nav-link menu-link" href="#sidebarPot" data-bs-toggle="collapse" role="button" aria-expanded="true" aria-controls="sidebarLanding">
                                 <i class="ri-rhythm-fill"></i> <span data-key="t-landing">Manage Portfolio</span>
                             </a>

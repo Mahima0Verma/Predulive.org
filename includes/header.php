@@ -79,7 +79,7 @@
                         <a href="about.php" class="nav-item nav-link">About</a>
                         <a href="services.php" class="nav-item nav-link">Services</a>
                         <a href="program.php" class="nav-item nav-link">Programs</a>
-                        <a href="impacts.php" class="nav-item nav-link">Impacts</a>
+                        <a href="impact.php" class="nav-item nav-link">Impacts</a>
                         <a href="blog.php" class="nav-item nav-link">Blogs</a>
                         <a href="get_involved.php" class="nav-item nav-link">Get Involved</a>
                         <a href="contact.php" class="nav-item nav-link">Contact</a>

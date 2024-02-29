@@ -27,7 +27,7 @@ RewriteRule    ^why/?$    why-us.php    [NC,L]
 RewriteRule    ^logo/?$    updatelogo.php    [NC,L]
 
 RewriteRule    ^createblog/?$    add-blog.php    [NC,L]
-RewriteRule    ^blog/?$    bloglist.php    [NC,L]
+RewriteRule    ^blog/?$    blog.php    [NC,L]
 
 RewriteRule    ^createslide/?$    add-slider.php    [NC,L]
 RewriteRule    ^slider/?$    sliderlist.php    [NC,L]
@@ -43,3 +43,22 @@ RewriteRule    ^addteam/?$    add-team.php    [NC,L]
 
 RewriteRule    ^stands/?$    stands.php    [NC,L]
 RewriteRule    ^createstands/?$    addstands.php    [NC,L]
+
+RewriteRule    ^program/?$    program.php    [NC,L]
+RewriteRule    ^createprogram/?$    add-program.php    [NC,L]
+
+RewriteRule    ^impact/?$    impact.php    [NC,L]
+RewriteRule    ^createimpact/?$    add-impact.php    [NC,L]
+
+RewriteRule    ^impact_1/?$    impact_1.php    [NC,L]
+RewriteRule    ^createimpact_1/?$    add-impact_1.php    [NC,L]
+
+RewriteRule    ^impact_2/?$    impact_2.php    [NC,L]
+RewriteRule    ^createimpact_2/?$    add-impact_2.php    [NC,L]
+
+RewriteRule    ^impact_3/?$    impact_3.php    [NC,L]
+RewriteRule    ^createimpact_3/?$    add-impact_3.php    [NC,L]
+
+RewriteRule    ^impact_4/?$    impact_4.php    [NC,L]
+RewriteRule    ^createimpact_4/?$    add-impact_4.php    [NC,L]
+
